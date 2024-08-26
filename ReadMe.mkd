@@ -1,0 +1,3 @@
+# This is an Ecommerce site that doubles as a clothes store
+
+# Created with html, css and JavaScript
